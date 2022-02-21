@@ -1,0 +1,24 @@
+{
+  "name": "social-proof-section-master",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrzywN/social-proof-section-master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrzywN/social-proof-section-master/issues"
+  },
+  "homepage": "https://github.com/GrzywN/social-proof-section-master#readme",
+  "dependencies": {
+    "parcel": "^2.3.2"
+  }
+}

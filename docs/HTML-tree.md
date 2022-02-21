@@ -1,0 +1,34 @@
+body
+    container
+        section
+            section__header
+            section__paragraph
+        section section--rated
+            rated
+                p.rated__label
+            rated
+                p.rated__label
+            rated
+                p.rated__label
+        grid
+            article.card
+                card__heading
+                    card__photo
+                    card__name
+                    card__customer
+                card__body
+                    card__opinion
+            article.card
+                card__heading
+                    card__photo
+                    card__name
+                    card__customer
+                card__body
+                    card__opinion
+            article.card
+                card__heading
+                    card__photo
+                    card__name
+                    card__customer
+                card__body
+                    card__opinion
