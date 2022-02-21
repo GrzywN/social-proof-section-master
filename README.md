@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [GitHub - GrzywN/social-proof-section-master](https://github.com/GrzywN/social-proof-section-master)
+- Live Site URL: [Netlify](https://competent-haibt-ce1960.netlify.app/)
 
 ## My process
 
